@@ -1,4 +1,4 @@
-site_name: FunnyStocks Development Process
+site_name: FunnyStocks
 docs_dir: "markdown"
 site_dir: "docs"
 site_description: "Documentation of building a stock market game in GCP free tier compute instance."
