@@ -6,7 +6,7 @@ site_author: "funnyStocks"
 repo_url: "https://github.com/funnystocks/docs"
 repo_name: "GitHub"
 nav:
-  - Home: "docs/index.md"
+  - Home: "markdown/index.md"
 theme:
   name: "readthedocs"
   language: en
