@@ -12,3 +12,5 @@ build:
 
 mkdocs:
   configuration: mkdocs.yml
+
+# THIS IS AN EXAMPLE FROM READTHEDOCS AND NOT MY CODE.
